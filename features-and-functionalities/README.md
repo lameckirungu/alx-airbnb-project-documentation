@@ -7,7 +7,7 @@ The purpose of this document is to provide a high-level visual overview of all f
 ## 2. Feature Map
 The following diagram, created with Miro, breaks down the core functionalities and their respective sub-features.
 
-![Airbnb Backend Feature Map](features.png)
+![Airbnb Backend Feature Map](features.jpg)
 ### Core features include
 * ***User Management***
 * ***Property Listing management***
